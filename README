@@ -1,0 +1,3 @@
+Hibernate Patterns:
+1. session-per-request
+2. Open Session in View
